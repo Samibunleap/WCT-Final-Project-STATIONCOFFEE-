@@ -4,5 +4,5 @@ import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: '/WCT-Final-Project-STATIONCOFFEE-/',
+  base: "/WCT-Final-Project-STATIONCOFFEE-/",
 });
